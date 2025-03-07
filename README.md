@@ -19,9 +19,9 @@ This project provides a Python implementation of the **0/1 Knapsack Problem** an
    git clone https://github.com/your-username/knapsack-solver.git
    cd knapsack-solver ```
 2. Install the required dependencies
-```bash
-pip install -r requirements.txt```
+    ```bash
+    pip install -r requirements.txt```
 3. Usage:
 run the jupiter notebook file
-```bash
-jupiter-notebook knapsack_solver.ipynb ```
+    ```bash
+    jupiter-notebook knapsack_solver.ipynb ```
